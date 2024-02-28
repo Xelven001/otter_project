@@ -1,2 +1,2 @@
-,total_orders,subtotal,revenue,total_discounts,avg_prep_time,avg_revenue,total_discounts,avg_discount,min_discount,total_issues,total_cancellations
-0,63732,1393351.389999972,1356720.4699999709,48560,14.696134802747165,21.287900426786713,48560,-5.317305849905654,-20.46,2759,11
+,total_orders,subtotal,revenue,total_discounts,avg_prep_time,avg_revenue,total_discounts,avg_discount,min_discount,total_issues
+0,63732,1393351.389999972,1356720.4699999709,48560,14.696134802747165,21.287900426786713,48560,-5.317305849905654,-20.46,2759
